@@ -1,5 +1,6 @@
 ### whoami
 
+
 **Name:** Oleksandr Bondar 
 
 **Contacts:**
@@ -31,7 +32,25 @@
 * ["DeepLearning.AI TensorFlow Developer"](https://coursera.org/share/57dd1debf3232d4752db67d75ed8d51b)
 * ["The Google TensorFlow Developer Certificate"](https://www.credential.net/a05c1f58-662c-4551-a2aa-567c188f7556)
 
+**About Me:**
+* Reliable
+* Easy-going
+* Punctual
+* Patient
+* Non-confrontational
+* Respectfu
+* Quick to begin working with a large amount of information and obligations
 
+**Additional Information:**
+
+* Owns a website hosted on Google Cloud: [AI News](https://35.197.36.43)
+  * Website Features:
+    * Parses HTML from the site Artificial Intelligence News
+    * Saves data to SQLite database
+    * Displays news data on the site page
+    * Allows registration and authorization of new users
+    * Enables registered users to comment on news
+    * Displays the weather forecast for the city of Washington
 
 <!--
 **bondpy202212/bondpy202212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
