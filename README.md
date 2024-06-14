@@ -42,6 +42,7 @@
 * Quick to begin working with a large amount of information and obligations
 
 <br>
+
 **Additional Information:**
 
 * Owns a website hosted on Google Cloud: [AI News](https://35.197.36.43)
