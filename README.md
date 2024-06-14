@@ -31,6 +31,9 @@
 * ["DeepLearning.AI TensorFlow Developer"](https://coursera.org/share/57dd1debf3232d4752db67d75ed8d51b)
 * ["The Google TensorFlow Developer Certificate"](https://www.credential.net/a05c1f58-662c-4551-a2aa-567c188f7556)
 
+**Education:**
+* Exam The TensorFlow certificate offered by Google [TensorFlow certificate](https://www.tensorflow.org/certificate), (2024)
+
 **About Me:**
 * Reliable
 * Easy-going
