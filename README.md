@@ -47,7 +47,7 @@
 
 * Owns a website hosted on Google Cloud: [AI News](https://35.197.36.43)
   * Website Features:
-    * Parses HTML from the site Artificial Intelligence News
+    * Parses HTML from the site [Artificial Intelligence News](https://www.artificialintelligence-news.com)
     * Saves data to SQLite database
     * Displays news data on the site page
     * Allows registration and authorization of new users
