@@ -18,7 +18,8 @@
 * Time Series
 
 **Achievements and Certificates:**
-* ["Python Essential UA"](https://testprovider.com/ua/search-certificate/TP10093516
+* ["Python Essential UA"](https://testprovider.com/ua/search-certificate/TP10093516)
+* 
 
 
 
