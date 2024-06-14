@@ -13,10 +13,6 @@
 
 **Occupation:** DeepLearning.AI TensorFlow Developer  
 
-**Hobbies:**
-* Python programming
-* AI research
-
 **Interests:**
 * Python
 * Artificial intelligence (AI)
@@ -44,6 +40,10 @@
 * Respectfu
 * Quick to begin working with a large amount of information and obligations
 
+
+**Hobbies:**
+* Python programming
+* AI research
 <br>
 
 **Additional Information:**
