@@ -6,7 +6,7 @@
 **Contacts:**
 * **Email:** bondpy202212@gmail.com
 * **Phone:** +380637095484
-* **Social Media:** Facebook, Twitter, WhatsApp, Viber, Signal, Telegram
+* **Social Media:** [Facebook] (http://m.me/alexbondpy), Twitter, WhatsApp, Viber, Signal, Telegram
 * [Github]( https://github.com/bondpy202212)
 * [Linkedin:]
 
