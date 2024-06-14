@@ -5,7 +5,8 @@
 **Occupation:** DeepLearning.AI TensorFlow Developer 
 **Hobbies:**
 * Python programming
-* AI research 
+* AI research
+
 **Interests:**
 
 
