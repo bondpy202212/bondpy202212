@@ -1,12 +1,10 @@
 ### whoami
 
 **Name:** Oleksandr Bondar
-
 **Occupation:** DeepLearning.AI TensorFlow Developer 
 **Hobbies:**
 * Python programming
 * AI research
-
 **Interests:**
 
 
