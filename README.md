@@ -9,7 +9,17 @@
 * AI research
 
 **Interests:**
-* Python programming
+* Python
+* Artificial intelligence (AI)
+* Deep Learning (DL)
+* Machine Learning (ML)
+* Computer Vision
+* Natural Language Processing (NLP)
+* Time Series
+
+**Achievements and Certificates:**
+* ["Python Essential UA"](https://testprovider.com/ua/search-certificate/TP10093516
+
 
 
 <!--
