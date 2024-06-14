@@ -2,7 +2,8 @@
 
 **Name:** Oleksandr Bondar  
 **Occupation:** DeepLearning.AI TensorFlow Developer  
-**Hobbies:**  * Python programming
+**Hobbies:**
+* Python programming
 * AI research
 
 **Interests:**
