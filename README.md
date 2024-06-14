@@ -2,6 +2,11 @@
 
 **Name:** Oleksandr Bondar 
 
+**Contacts:**
+* **Email:** bondpy202212@gmail.com
+* **Phone:** +380637095484
+* **Social Media:** Facebook, Twitter, WhatsApp, Viber, Signal, Telegram
+
 **Occupation:** DeepLearning.AI TensorFlow Developer  
 
 **Hobbies:**
@@ -19,7 +24,12 @@
 
 **Achievements and Certificates:**
 * ["Python Essential UA"](https://testprovider.com/ua/search-certificate/TP10093516)
-* 
+* ["Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning"](https://coursera.org/share/c9bed23cab7ebfe7ee5eacc683b6caf6)
+* ["Convolutional Neural Networks in TensorFlow"](https://coursera.org/share/36402e80133bef8d5cc8b56b923edf7f)
+* ["Natural Language Processing in TensorFlow"](https://coursera.org/share/9e09b10a498bc9de624c5124094963ab)
+* ["Sequences, Time Series and Prediction"](https://coursera.org/share/a2d99c0589dba0b36384b5dd35653628)
+* ["DeepLearning.AI TensorFlow Developer"](https://coursera.org/share/57dd1debf3232d4752db67d75ed8d51b)
+* ["The Google TensorFlow Developer Certificate"](https://www.credential.net/a05c1f58-662c-4551-a2aa-567c188f7556)
 
 
 
