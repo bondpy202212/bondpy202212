@@ -15,11 +15,11 @@
 
 **Interests:**
 * Python
-* Artificial intelligence (AI)
-* Deep Learning (DL)
-* Machine Learning (ML)
+* Artificial intelligence 
+* Deep Learning 
+* Machine Learning 
 * Computer Vision
-* Natural Language Processing (NLP)
+* Natural Language Processing
 * Time Series
 
 **Achievements and Certificates:**
