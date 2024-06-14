@@ -22,7 +22,7 @@
 * Natural Language Processing
 * Time Series
 
-**Achievements and Certificates:**
+**Honours / Awards (Certificates):**
 * ["The Google TensorFlow Developer Certificate"](https://www.credential.net/a05c1f58-662c-4551-a2aa-567c188f7556)
 * ["DeepLearning.AI TensorFlow Developer"](https://coursera.org/share/57dd1debf3232d4752db67d75ed8d51b)
 * ["Sequences, Time Series and Prediction"](https://coursera.org/share/a2d99c0589dba0b36384b5dd35653628)
