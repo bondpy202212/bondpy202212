@@ -72,12 +72,13 @@
 
 **About Me:**
 * Reliable
-* Easy-going
+* Responsible
 * Punctual
-* Patient
-* Non-confrontational
-* Respectfu
-* Quick to begin working with a large amount of information and obligations
+* Attentive
+* Non-conflict 
+* Persistent
+* Fast learner
+* Work with a lot of information and responsibilities
 
 
 **Hobbies:**
