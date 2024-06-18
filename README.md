@@ -22,6 +22,10 @@
 * Natural Language Processing
 * Time Series
 
+**Skills**
+* Artificial Intelligence
+
+
 **Honours / Awards (Certificates):**
 * ["The Google TensorFlow Developer Certificate"](https://www.credential.net/a05c1f58-662c-4551-a2aa-567c188f7556)
 * ["DeepLearning.AI TensorFlow Developer"](https://coursera.org/share/57dd1debf3232d4752db67d75ed8d51b)
@@ -39,7 +43,7 @@
 *  Courses ["Convolutional Neural Networks in TensorFlow"](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow), (2023)
 *  Courses [ "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning"](https://www.coursera.org/learn/introduction-tensorflow), (2023)
 *  Courses [ Python Essential](https://itvdn.com/ua/video/python-essential), (2023)
-*  National aviation university, Ukraine, Master's Degree - Maintenance and repair of aircraft and aircraft engines, (2006)
+*  National Aviation University, Ukraine, Master's Degree - Maintenance and repair of aircraft and aircraft engines, (2006)
 
 
 **About Me:**
