@@ -32,6 +32,8 @@
 * Deep Neural Network (DNN)
 * Convolutional Neural Networks (CNN)
 * Computer Vision
+* Pooling technique
+* Max pooling
 * Dropout to avoid overtraining
 * Inductive Transfer
 * Transfer Learning
