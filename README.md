@@ -48,7 +48,7 @@
 * Seeking an internship in AI,  DL,  ML\
 * **Previous Position:**\
   * **Former:** Research Scientist in Aerodynamics and Aviation (National Aviation University, Ukraine)\
-  * **Current:**  DL, AI  TensorFlow Developer (TensorFlow Certificate offered by Google)
+  * **Current:**  DL, AI  TensorFlow Developer
 
 **Honours / Awards (Certificates):**
 * ["The Google TensorFlow Developer Certificate"](https://www.credential.net/a05c1f58-662c-4551-a2aa-567c188f7556)
@@ -60,13 +60,13 @@
 * ["Python Essential UA"](https://testprovider.com/ua/search-certificate/TP10093516)
 
 **Education:**
-* Exam The TensorFlow certificate offered by Google [TensorFlow certificate](https://www.tensorflow.org/certificate), (2024)
+* Exam The TensorFlow certificate offered by Google ["TensorFlow certificate"](https://www.tensorflow.org/certificate), (2024)
 * Specialization "DeepLearning.AI TensorFlow Developer", an platform ["Coursera"](https://www.coursera.org), (2023)
 *  Courses ["Sequences, Time Series and Prediction"](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction), (2023)
-*  Courses [ "Natural Language Processing in TensorFlow"](https://www.coursera.org/learn/natural-language-processing-tensorflow), (2023)
+*  Courses ["Natural Language Processing in TensorFlow"](https://www.coursera.org/learn/natural-language-processing-tensorflow), (2023)
 *  Courses ["Convolutional Neural Networks in TensorFlow"](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow), (2023)
-*  Courses [ "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning"](https://www.coursera.org/learn/introduction-tensorflow), (2023)
-*  Courses [ Python Essential](https://itvdn.com/ua/video/python-essential), (2023)
+*  Courses ["Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning"](https://www.coursera.org/learn/introduction-tensorflow), (2023)
+*  Courses ["Python Essential"](https://itvdn.com/ua/video/python-essential), (2023)
 *  National Aviation University, Ukraine, Master's Degree - Maintenance and repair of aircraft and aircraft engines, (2006)
 
 
