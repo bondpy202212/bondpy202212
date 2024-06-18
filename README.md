@@ -45,7 +45,7 @@
 * Word embeddings 
 
 **Work Experience:**  
-Seeking an internship in AI,  DL,  ML
+ * Seeking an internship in AI,  DL,  ML\
 **Previous Position:**
  * **Former:** Research Scientist in Aerodynamics and Aviation
  * **Current:**  DL, AI  TensorFlow Developer
