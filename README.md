@@ -34,11 +34,11 @@
 * Computer Vision
 * Pooling technique
 * Max pooling
-* Dropout to avoid overtraining
+* Dropout to avoid overfitting
 * Inductive Transfer
 * Transfer Learning
 * Multiclass Classifications
-* Augmentation to avoid overtraining
+* Augmentation to avoid overfitting
 * Natural Language Processing
 * Tokenizer converting the text into numeric values
 * Recurrent Neural Networks (RNNs)
