@@ -15,16 +15,34 @@
 
 **Interests:**
 * Python
+* TensorFlow
 * Artificial intelligence 
 * Deep Learning 
 * Machine Learning 
 * Computer Vision
 * Natural Language Processing
+* Series of sequences
 * Time Series
 
 **Skills**
 * Artificial Intelligence
-
+* Machine Learning
+* Deep Learning
+* Tensorflow
+* Deep Neural Network (DNN)
+* Convolutional Neural Networks (CNN)
+* Computer Vision
+* Dropout to avoid overtraining
+* Inductive Transfer
+* Transfer Learning
+* Multiclass Classifications
+* Augmentation to avoid overtraining
+* Natural Language Processing
+* Tokenizer converting the text into numeric values
+* Recurrent Neural Networks (RNNs)
+* Long Short-Term Memory(LSTM)
+* Bidirectional for LSTM
+* Word embeddings 
 
 **Honours / Awards (Certificates):**
 * ["The Google TensorFlow Developer Certificate"](https://www.credential.net/a05c1f58-662c-4551-a2aa-567c188f7556)
