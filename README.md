@@ -24,7 +24,7 @@
 * Series of sequences
 * Time Series
 
-**Skills**
+**Skills:**
 * Artificial Intelligence
 * Machine Learning
 * Deep Learning
