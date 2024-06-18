@@ -50,6 +50,8 @@
 * Time Series
 * Prediction
 * Forecasting
+* Foundational machine learning through the building and training of models using TensorFlow
+* Practical machine learning through the building and training of models using TensorFlow
 
 **Work Experience:**  
 * Seeking an internship in AI,  DL,  ML
