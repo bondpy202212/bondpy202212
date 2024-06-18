@@ -44,6 +44,7 @@
 * Recurrent Neural Networks (RNNs)
 * Long Short-Term Memory(LSTM)
 * Bidirectional for LSTM
+* Gated Recurrent Unit(GRU)
 * Word embeddings 
 
 **Work Experience:**  
