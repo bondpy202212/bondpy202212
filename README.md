@@ -45,7 +45,11 @@
 * Long Short-Term Memory(LSTM)
 * Bidirectional for LSTM
 * Gated Recurrent Unit(GRU)
-* Word embeddings 
+* Word embeddings
+* Series of sequence
+* Time Series
+* Prediction
+* Forecasting
 
 **Work Experience:**  
 * Seeking an internship in AI,  DL,  ML
