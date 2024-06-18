@@ -25,9 +25,9 @@
 * Time Series
 
 **Skills:**
-* Artificial Intelligence
-* Machine Learning
-* Deep Learning
+* Artificial Intelligence (AI)
+* Machine Learning (ML)
+* Deep Learning (ML)
 * Tensorflow
 * Deep Neural Network (DNN)
 * Convolutional Neural Networks (CNN)
@@ -43,6 +43,11 @@
 * Long Short-Term Memory(LSTM)
 * Bidirectional for LSTM
 * Word embeddings 
+
+**Work Experience:**  Seeking an internship in AI,  DL,  ML
+* Previous Position: *
+ * Former: * Research Scientist in Aerodynamics.
+ * Current: *  DL, AI  TensorFlow Developer
 
 **Honours / Awards (Certificates):**
 * ["The Google TensorFlow Developer Certificate"](https://www.credential.net/a05c1f58-662c-4551-a2aa-567c188f7556)
