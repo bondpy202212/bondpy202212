@@ -46,8 +46,8 @@
 
 **Work Experience:**  
 Seeking an internship in AI,  DL,  ML\
-**Previous Position:**
- **Former:** Research Scientist in Aerodynamics and Aviation (National Aviation University, Ukraine)
+**Previous Position:**\
+ **Former:** Research Scientist in Aerodynamics and Aviation (National Aviation University, Ukraine)\
  **Current:**  DL, AI  TensorFlow Developer (TensorFlow Certificate offered by Google)
 
 **Honours / Awards (Certificates):**
