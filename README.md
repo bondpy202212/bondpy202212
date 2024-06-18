@@ -46,6 +46,7 @@
 
 **Work Experience:**  
 Seeking an internship in AI,  DL,  ML
+
 **Previous Position:**
 * **Former:** Research Scientist in Aerodynamics.
 * **Current:**  DL, AI  TensorFlow Developer
