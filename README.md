@@ -71,8 +71,8 @@
 **Work Experience:**  
 * Seeking an internship in AI,  DL,  ML
 * **Previous Position:**
-  * **Former:** Research Scientist in Aerodynamics and Aviation (National Aviation University, Ukraine, 2007 - 2022)
-  * **Current:**  DL and AI  TensorFlow Developer
+  * **Former:** Research Scientist in Aerodynamics and Aviation ([National Aviation University](https://nau.edu.ua/en/), Ukraine, 2007 - 2022)
+  * **Current:**  DL and AI  TensorFlow Developer (["Coursera"](https://www.coursera.org) - 2023, ["TensorFlow certificate"](https://www.tensorflow.org/certificate) - 2024)
 
 **Honours / Awards (Certificates):**
 * ["The Google TensorFlow Developer Certificate"](https://www.credential.net/a05c1f58-662c-4551-a2aa-567c188f7556)
@@ -87,7 +87,12 @@
 * Exam The TensorFlow certificate offered by Google ["TensorFlow certificate"](https://www.tensorflow.org/certificate), (2024)
     - foundational knowledge of integrating machine learning into tools and applications
     - building TensorFlow models using Computer Vision
+    - building TensorFlow models using Convolutional Neural Networks
+    - building TensorFlow models using Natural Language Processing
+    - building TensorFlow models using real-world image data
+    - building TensorFlow models using strategies
 * Specialization "DeepLearning.AI TensorFlow Developer", an platform ["Coursera"](https://www.coursera.org), (2023)
+    - 
 *  Courses ["Sequences, Time Series and Prediction"](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction), (2023)
 *  Courses ["Natural Language Processing in TensorFlow"](https://www.coursera.org/learn/natural-language-processing-tensorflow), (2023)
 *  Courses ["Convolutional Neural Networks in TensorFlow"](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow), (2023)
