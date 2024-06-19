@@ -92,7 +92,10 @@
     - building TensorFlow models using real-world image data
     - building TensorFlow models using strategies
 * Specialization "DeepLearning.AI TensorFlow Developer", an platform ["Coursera"](https://www.coursera.org), (2023)
-    - 123
+    - Best practices for TensorFlow, a popular open-source machine learning framework to train a neural network for a computer vision applications
+    - Build natural language processing systems using TensorFlow
+    - Handle real-world image data and explore strategies to prevent overfitting, including augmentation and dropout
+    - Apply RNNs, GRUs, and LSTMs as you train them using text repositories
 *  Courses ["Sequences, Time Series and Prediction"](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction), (2023)
 *  Courses ["Natural Language Processing in TensorFlow"](https://www.coursera.org/learn/natural-language-processing-tensorflow), (2023)
 *  Courses ["Convolutional Neural Networks in TensorFlow"](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow), (2023)
