@@ -85,7 +85,7 @@
 
 **Education:**
 * Exam The TensorFlow certificate offered by Google ["TensorFlow certificate"](https://www.tensorflow.org/certificate), (2024)
-  *  - foundational knowledge of integrating machine learning into tools and applications
+     - foundational knowledge of integrating machine learning into tools and applications
 * Specialization "DeepLearning.AI TensorFlow Developer", an platform ["Coursera"](https://www.coursera.org), (2023)
 *  Courses ["Sequences, Time Series and Prediction"](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction), (2023)
 *  Courses ["Natural Language Processing in TensorFlow"](https://www.coursera.org/learn/natural-language-processing-tensorflow), (2023)
