@@ -53,7 +53,7 @@
 * Foundational machine learning through the building and training of models using TensorFlow
 * Practical machine learning through the building and training of models using TensorFlow
 
-**Hard Skills:**
+**Soft Skills:**
 * Analytical Thinking and Problem Solving
 * Attention to Detail and Accuracy
 * Creativity and Innovation
