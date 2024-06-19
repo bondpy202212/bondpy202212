@@ -92,16 +92,27 @@
     - building TensorFlow models using real-world image data
     - building TensorFlow models using strategies
 * Specialization "DeepLearning.AI TensorFlow Developer", an platform ["Coursera"](https://www.coursera.org), (2023)
-    - Best practices for TensorFlow, a popular open-source machine learning framework to train a neural network for a computer vision applications
-    - Build natural language processing systems using TensorFlow
-    - Handle real-world image data and explore strategies to prevent overfitting, including augmentation and dropout
-    - Apply RNNs, GRUs, and LSTMs as you train them using text repositories
+    - best practices for TensorFlow, a popular open-source machine learning framework to train a neural network for a computer vision applications
+    - build natural language processing systems using TensorFlow
+    - handle real-world image data and explore strategies to prevent overfitting, including augmentation and dropout
+    - apply RNNs, GRUs, and LSTMs as you train them using text repositories
 *  Courses ["Sequences, Time Series and Prediction"](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction), (2023)
+    - solve time series and forecasting problems in TensorFlow
+    - prepare data for time series learning using best practices
+    - explore how RNNs and ConvNets can be used for predictions
+    - build a sunspot prediction model using real-world data
 *  Courses ["Natural Language Processing in TensorFlow"](https://www.coursera.org/learn/natural-language-processing-tensorflow), (2023)
+    - build natural language processing systems using TensorFlow
+    - apply RNNs, GRUs, and LSTMs in TensorFlow
+    - process text, including tokenization and representing sentences as vectors
+    - train LSTMs on existing text to create original poetry and more
 *  Courses ["Convolutional Neural Networks in TensorFlow"](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow), (2023)
+    - 123
 *  Courses ["Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning"](https://www.coursera.org/learn/introduction-tensorflow), (2023)
+    - 123
 *  Courses ["Python Essential"](https://itvdn.com/ua/video/python-essential), (2023)
-*  [National Aviation University](https://nau.edu.ua/en/), Ukraine, Master's Degree - Maintenance and repair of aircraft and aircraft engines, (2006)
+    - 123
+*  Master's Degree - Maintenance and repair of aircraft and aircraft engines, [National Aviation University](https://nau.edu.ua/en/), Ukraine, (2006)
 
 
 **About Me:**
