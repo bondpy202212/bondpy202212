@@ -124,7 +124,8 @@
     - dealing with input-output operations using Python
     - understanding the basics of functional programming
 *  Master's Degree - Maintenance and repair of aircraft and aircraft engines, [National Aviation University](https://nau.edu.ua/en/), Ukraine, (2006):
-    - 123
+    - research scientist qualification
+    - higher education institution lecturer
 
 
 **About Me:**
