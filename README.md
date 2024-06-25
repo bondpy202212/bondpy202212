@@ -154,7 +154,16 @@
 
 **Worked in the following positions:** department engineer; teaching assistant; research assistant; secretary for the conference section;  responsible executive for scientific research; research officer
 
+**Professional activity:** aerodynamics; helicopter; gyroplane; math modeling; regression and statistical analysis; experimental research; technical documentation; scientific publications; organization and conduct of research work; development, design, setup and operation of experimental equipment
 
+**Scientific activity:** math modeling of physical processes of a bearing screw in autorotation mode; optimization tasks using regression analysis; experimental studies of the aerodynamic characteristics of various bodies in wind tunnels
+
+**Working with software products:** Mathlab, FlowVision, Kompas, SolidWords, LabVIEW\
+Mathlab –  mathematical models of rotor operation; problems of aircraft flight dynamics\
+FlowVision - modeling of rotor operation in autorotation mode\
+Kompas – tasks of spatial 3D modeling\
+SolidWorks – development of spatial 3D models, assembly and working drawings\
+LabVIEW - software for calibration of measuring instruments, data collection and processing of experimental data\
 
 
 <!--
