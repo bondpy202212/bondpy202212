@@ -152,9 +152,9 @@
 
 **Additional Information about my last work([National Aviation University](https://nau.edu.ua/en/), Kyiv, Ukraine, 2007-2022):**
 
-**Worked in the following positions:** department engineer; teaching assistant; research assistant; secretary for the conference section;  responsible executive for scientific research; research officer
+* **Worked in the following positions:** department engineer; teaching assistant; research assistant; secretary for the conference section;  responsible executive for scientific research; research officer
 
-**Professional activity:** aerodynamics; helicopter; gyroplane; math modeling; regression and statistical analysis; experimental research; technical documentation; scientific publications; organization and conduct of research work; development, design, setup and operation of experimental equipment
+* **Professional activity:** aerodynamics; helicopter; gyroplane; math modeling; regression and statistical analysis; experimental research; technical documentation; scientific publications; organization and conduct of research work; development, design, setup and operation of experimental equipment
 
 **Scientific activity:** math modeling of physical processes of a bearing screw in autorotation mode; optimization tasks using regression analysis; experimental studies of the aerodynamic characteristics of various bodies in wind tunnels
 
