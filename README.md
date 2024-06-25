@@ -163,7 +163,7 @@ Mathlab –  mathematical models of rotor operation; problems of aircraft flight
 FlowVision - modeling of rotor operation in autorotation mode\
 Kompas – tasks of spatial 3D modeling\
 SolidWorks – development of spatial 3D models, assembly and working drawings\
-LabVIEW - software for calibration of measuring instruments, data collection and processing of experimental data\
+LabVIEW - software for calibration of measuring instruments, data collection and processing of experimental data
 
 
 * **Working with experimental equipment for aerodynamic research:** aerodynamic tunnels, aerodynamic balances, instruments for measuring parameters of air flow, pressure distribution on the body surface
