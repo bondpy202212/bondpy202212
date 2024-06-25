@@ -150,7 +150,12 @@
     * Enables registered users to comment on news
     * Displays the weather forecast for the city of Washington
 
-**Additional Information about my last work([National Aviation University](https://nau.edu.ua/en/), Kyiv, Ukraine, 2007-2022):** 
+**Additional Information about my last work([National Aviation University](https://nau.edu.ua/en/), Kyiv, Ukraine, 2007-2022):**
+
+**Worked in the following positions:** department engineer; teaching assistant; research assistant; secretary for the conference section;  responsible executive for scientific research; research officer
+
+
+
 
 <!--
 **bondpy202212/bondpy202212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
