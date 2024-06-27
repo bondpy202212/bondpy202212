@@ -1,7 +1,7 @@
 ### whoami
 
 
-**Name:** Oleksandr Bondar 
+**Name:** Oleksandr Bondar (Alex)
 
 **Contacts:**
 * **Email:** bondpy202212@gmail.com
@@ -172,7 +172,7 @@ LabVIEW - software for calibration of measuring instruments, data collection and
 
 * **Experience in:** organizing and conducting the entire cycle of scientific-experimental research; project development from the idea stage to the stage of the finished product
 
-**Publications:** patents 3 pcs, scientific articles 6 pcs, conference presentation abstracts 11 pcs
+**Publications:** patents 3 pcs, scientific articles 6 pcs, conference presentation abstracts 11 pcs. All publications on aerodynamics, aircraft, experimental equipment for aerodynamic research, mathematical modeling of various processes occurring during the flight of aircraft, as well as individual elements of such aircraft when in contact with air. [Publications](https://github.com/bondpy202212/publications/blob/main/README.md)
 
 **Patents:**
 1. Пат. 52913 Україна, МПК G01M 9/00. Пристрій для визначення поля індуктивних швидкостей несучого гвинта в аеродинамічній трубі/ О. В. Бондар, O. Р. Давидов, С. О. Іщенко; заявник та патентовласник Національний авіаційний ун-т.  - №201004421; Заявл. 16.04.2010; Опубл. 10.09.2010, Бюл. №17. – 3 с.\
