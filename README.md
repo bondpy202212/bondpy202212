@@ -7,6 +7,7 @@
 * **Email:** bondpy202212@gmail.com
 * **Phone:** +380637095484
 * **Social Media:** [Facebook](http://m.me/alexbondpy), [Twitter](https://twitter.com/alex_bondpy) , [WhatsApp]( https://api.whatsapp.com/send?phone=380637095484), [Viber](viber://chat?number=%2B380637095484), [Signal](https://signal.me/#eu/YDCCF6SVr7Cps1FpVqIUEehULEtrRDNsW69VnjlU6cJCDra_ghlC6JbEDRb0Ifqs), [Telegram](https://t.me/alex_bondpy)
+* <a href="viber://chat?number=%2B380637095484">Текст ссылки</a>.
 * [Github]( https://github.com/bondpy202212)
 * [Linkedin:]
 
