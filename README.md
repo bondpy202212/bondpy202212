@@ -166,7 +166,7 @@ SolidWorks – development of spatial 3D models, assembly and working drawings\
 LabVIEW - software for calibration of measuring instruments, data collection and processing of experimental data
 
 
-* **Working with experimental equipment for aerodynamic research:** aerodynamic tunnels, aerodynamic balances, instruments for measuring parameters of air flow, pressure distribution on the body surface  (all experiments were conducted using the wind tunnels [TAD-2](http://wt.nau.edu.ua/en/TAD2_Main.html) and [UTAD-2]()http://wt.nau.edu.ua/en/UTAD2_Main.html)
+* **Working with experimental equipment for aerodynamic research:** aerodynamic tunnels, aerodynamic balances, instruments for measuring parameters of air flow, pressure distribution on the body surface  (all experiments were conducted using the wind tunnels [TAD-2](http://wt.nau.edu.ua/en/TAD2_Main.html) and [UTAD-2]()http://wt.nau.edu.ua/en/UTAD2_Main.html))
 
 * **Working with scientific and technical documentation:** development of technical tasks; preparation of working documentation at the preparation stage; support and preparation of intermediate documents; writing, formatting final and accompanying documents; evaluation of results and preparation of conclusions from the work conducted
 
