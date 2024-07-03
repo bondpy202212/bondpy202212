@@ -116,7 +116,7 @@
     - build a basic neural network in TensorFlow
     - train a neural network for a computer vision application
     - understand how to use convolutions to improve your neural network
-*  Courses ["Python Essential"](https://itvdn.com/ua/video/python-essential), (2023):
+*  Courses ["Python Essential"](https://itvdn.com/ua/video/python-essential), , an platform ["ITVDN"](https://itvdn.com/ua),(2023):
     - understanding Object-Oriented Programming (OOP) paradigms
     - working with iterators and generators
     - handling exceptions in the program
