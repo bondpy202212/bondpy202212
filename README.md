@@ -72,7 +72,7 @@
 * Seeking an internship in AI,  DL,  ML
 * **Previous Position:**
   * **Former:** Research Scientist in Aerodynamics and Aviation ([National Aviation University](https://nau.edu.ua/en/), Ukraine, 2007 - 2022)
-  * **Current:**  DL and AI  TensorFlow Developer (["Coursera"](https://www.coursera.org) - 2023, ["TensorFlow certificate"](https://www.tensorflow.org/certificate) - 2024)
+  * **Current:**  DL and AI  TensorFlow Developer (["Coursera"](ttps://www.coursera.org/professional-certificates/tensorflow-in-practice) - 2023, ["TensorFlow certificate"](https://www.tensorflow.org/certificate) - 2024)
 
 **Honours / Awards (Certificates):**
 * ["The Google TensorFlow Developer Certificate"](https://www.credential.net/a05c1f58-662c-4551-a2aa-567c188f7556)
