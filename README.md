@@ -150,9 +150,9 @@
     * Enables registered users to comment on news
     * Displays the weather forecast for the city of Washington
 
-
+<!--
 **More information about my previous work ([National Aviation University](https://nau.edu.ua/en/), Kyiv, Ukraine, 2007-2022):**
-
+-->
 #### More information about my previous work **([National Aviation University](https://nau.edu.ua/en/), Kyiv, Ukraine, 2007-2022):**
 
 * **Worked in the following positions:** department engineer; teaching assistant; research assistant; secretary for the conference section;  responsible executive for scientific research; research officer
