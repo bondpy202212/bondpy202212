@@ -177,7 +177,8 @@ LabVIEW - software for calibration of measuring instruments, data collection and
 
 <!--**Publications:** patents 3 pcs, scientific articles 6 pcs, conference presentation abstracts 11 pcs. All publications on aerodynamics, aircraft, experimental equipment for aerodynamic research, mathematical modeling of various processes occurring during the flight of aircraft, as well as individual elements of such aircraft when in contact with air. ([publications](https://github.com/bondpy202212/publications/blob/main/README.md))-->
 
-#### Publications: # patents 3 pcs, scientific articles 6 pcs, conference presentation abstracts 11 pcs. All publications on aerodynamics, aircraft, experimental equipment for aerodynamic research, mathematical modeling of various processes occurring during the flight of aircraft, as well as individual elements of such aircraft when in contact with air. ([publications](https://github.com/bondpy202212/publications/blob/main/README.md))
+#### Publications: 
+patents 3 pcs, scientific articles 6 pcs, conference presentation abstracts 11 pcs. All publications on aerodynamics, aircraft, experimental equipment for aerodynamic research, mathematical modeling of various processes occurring during the flight of aircraft, as well as individual elements of such aircraft when in contact with air.
 
 
 
