@@ -67,9 +67,9 @@
 * Resilience and Perseverance
 * Strong Mathematical and Statistical Skills
 
-#### Work Experience:
 
 **Work Experience:**  
+#### Work Experience:
 * Seeking an internship in AI,  DL,  ML
 * **Previous Position:**
   * **Former:** Research Scientist in Aerodynamics and Aviation ([National Aviation University](https://nau.edu.ua/en/), Ukraine, 2007 - 2022)
