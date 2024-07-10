@@ -143,14 +143,14 @@
 
 * Owns a website hosted on Google Cloud: [AI News](https://35.197.36.43)
   * Website Features:
-    * Parses HTML from the site [Artificial Intelligence News](https://www.artificialintelligence-news.com)
+    * Parses HTML from the site [AI News - Artificial Intelligence News](https://www.artificialintelligence-news.com)
     * Saves data to SQLite database
     * Displays news data on the site page
     * Allows registration and authorization of new users
     * Enables registered users to comment on news
     * Displays the weather forecast for the city of Washington
 
-<--
+<!--
 **More information about my previous work ([National Aviation University](https://nau.edu.ua/en/), Kyiv, Ukraine, 2007-2022):**
 -->
 #### More information about my previous work **([National Aviation University](https://nau.edu.ua/en/), Kyiv, Ukraine, 2007-2022):**
