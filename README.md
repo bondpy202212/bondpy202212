@@ -67,7 +67,7 @@
 * Resilience and Perseverance
 * Strong Mathematical and Statistical Skills
 
-### 123
+### 
 
 **Work Experience:**  
 * Seeking an internship in AI,  DL,  ML
