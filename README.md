@@ -150,7 +150,7 @@
     * Enables registered users to comment on news
     * Displays the weather forecast for the city of Washington
 
-#### Previous work
+#### Previous work.
 
 **More information about my previous work ([National Aviation University](https://nau.edu.ua/en/), Kyiv, Ukraine, 2007-2022):**
 
